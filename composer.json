@@ -1,5 +1,5 @@
 {
-    "name": "qoraiche/laravel-mail-editor",
+    "name": "ysalitrynskyi/laravel-mail-editor",
     "description": "Laravel Mailable Editor",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://github.com/qoraiche"
         }
     ],
-    "homepage": "https://github.com/Qoraiche/laravel-mail-editor",
+    "homepage": "https://github.com/ysalitrynskyi/laravel-mail-editor",
     "keywords": [
         "Laravel",
         "mailEclipse",
