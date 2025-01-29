@@ -52,8 +52,8 @@
     },
     "repositories": [
         {
-            "type": "git",
-            "url": "https://github.com/ysalitrynskyi/mocker.git"
+            "type": "vcs",
+            "url": "https://github.com/ysalitrynskyi/mocker/"
         }
     ]
 }
