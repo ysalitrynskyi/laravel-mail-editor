@@ -30,12 +30,6 @@
         "orchestra/testbench": "^7.0",
         "sempro/phpunit-pretty-print": "^1.0"
     },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/ysalitrynskyi/mocker.git"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "Qoraiche\\MailEclipse\\": "src/"
@@ -55,5 +49,11 @@
                 "MailEclipse": "Qoraiche\\MailEclipse\\Facades\\MailEclipse"
             }
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/ysalitrynskyi/mocker.git"
+        }
+    ]
 }
