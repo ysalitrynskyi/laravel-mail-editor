@@ -19,15 +19,8 @@
         "mailable",
         "markdown"
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/ysalitrynskyi/mocker/"
-        }
-    ],
     "require": {
         "illuminate/support": "^9.0|^10.0|^11.0",
-        "ysalitrynskyi/mocker": "dev-master",
         "laravel/legacy-factories": "^1.4"
     },
     "require-dev": {
