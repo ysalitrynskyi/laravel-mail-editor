@@ -33,7 +33,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/ysalitrynskyi/mocker"
+            "url": "https://github.com/ysalitrynskyi/mocker.git"
         }
     ],
     "autoload": {
